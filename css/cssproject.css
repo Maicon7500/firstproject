@@ -1,8 +1,8 @@
 /* Style the buttons that are used to open and close the accordion panel */
 
 .accordion {
-    background-color: #gray;
-    color: #gray;
+    background-color: #144;
+    color: #444;
     cursor: pointer;
     padding: 20px;
     width: 100%;
