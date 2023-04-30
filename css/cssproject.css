@@ -1,33 +1,5 @@
 /* Style the buttons that are used to open and close the accordion panel */
 
-body {
-padding: 0;
-margin: 0;
-}
-
-p {
-padding: 0 10px;
-text-align: justify;
-}
-
-#menu {
-position: sticky;
-top: 0;
-margin-top: 100px;
-padding: 20px;
-background-color: #000;
-color: #fff;
-}
-
-
-
-
-
-
-
-
-
-
 .accordion {
     background-color: #white;
     color: #black;
@@ -57,6 +29,29 @@ color: #fff;
 p2{
  border: solid;
 }
+
+
+
+
+
+.nav-container{ background: url('images/nav_bg.jpg') repeat-x 0 0;}
+    .f-nav{ z-index: 9999; position: fixed; left: 0; top: 0; width: 100%;} /* this make our menu fixed top */
+    
+.nav { height: 42px;}
+    .nav ul { list-style: none; }
+    .nav ul li{float: left; margin-top: 6px; padding: 6px; border-right: 1px solid #ACACAC;}
+    .nav ul li:first-child{ padding-left: 0;}
+    .nav ul li a { }
+    .nav ul li a:hover{ text-decoration: underline;}
+
+
+
+
+
+
+
+
+
 
 
 
