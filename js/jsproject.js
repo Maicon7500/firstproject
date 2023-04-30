@@ -16,7 +16,7 @@ for (i = 0; i < acc.length; i++) {
 
 
 
-jQuery("document").ready(function($){
+S
     
     var nav = $('.nav-container');
     
