@@ -44,13 +44,20 @@ padding: 0 10px;
 text-align: justify;
 }
 
+/* menu*/
 #menuhow{
 position: sticky;
 top: 0;
-margin-top: 0px;
-padding: 25px;
+margin-top: 0x;
+padding: 0px;
 background-color: #93b874;
 color: #475347;
+/* erro está aqui
+
+font-size: 90px
+
+*/
+font-size: 20px
 }
 
 
